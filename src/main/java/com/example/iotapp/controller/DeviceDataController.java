@@ -11,6 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/device-data")
+//Testing
 public class DeviceDataController {
 
     private final DeviceDataRepository deviceDataRepository;
